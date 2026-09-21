@@ -1,7 +1,7 @@
-from flask import Flask
+
 import streamlit as st
 
-app = Flask(__name__)
+
 
 # Indian Destinations Database with Cost Metrics & Coordinates
 DESTINATIONS = {
